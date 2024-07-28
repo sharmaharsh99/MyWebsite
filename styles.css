@@ -1,0 +1,57 @@
+h1{
+    color: #66bfbf;
+    font-size: 9.5rem;
+   font-family: "Sacramento", cursive;
+   font-weight: 900;
+   
+}
+
+#p{
+    font-family:'Courier New', Courier, monospace;
+   font-weight: 700;
+   font-size: 2.5rem;
+   color:#66bfbf;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.background-color{
+    background-color: #201E43;
+}
+
+.self{
+    border-radius: 50%;
+    width:180px;
+    height:200px;
+}
+
+.a{
+    color:#d63384;
+    font-family:'Comic sans', sans-serif;
+    font-weight: 900;
+}
+
+.aboutme{
+    font-family:'Comic sans', sans-serif;
+    font-weight: 900;
+}
+
+.nav-link{
+    color:#66bfbf;
+    font-size: 1.1em
+}
+
+.footer{
+    background-color: #201E43;
+}
+
+.text-center{
+    color:#134B70;
+}
+
+.footer2{
+    color:#66bfbf;
+    font-size: 0.8em;
+}
